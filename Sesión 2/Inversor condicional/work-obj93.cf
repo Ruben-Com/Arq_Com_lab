@@ -1,0 +1,10 @@
+v 4
+file . "tb_inversor_condicional.vhd" "223798df5e51d7ef180db70f014d6d231122d8ff" "20201030115607.805":
+  entity tb_inversor_condicional at 1( 0) + 0 on 23;
+  architecture estructural of tb_inversor_condicional at 4( 64) + 0 on 24;
+file . "xor2.vhd" "c26f0855dae95eea41b78074d928ab556301f5b3" "20201030114119.985":
+  entity xor2 at 3( 28) + 0 on 11;
+  architecture comportamiento of xor2 at 8( 125) + 0 on 12;
+file . "inversor_condicional.vhd" "33b42e8b4b63a338d67d146878675a3f200a425f" "20201030114149.074":
+  entity inversor_condicional at 1( 0) + 0 on 13;
+  architecture estructural of inversor_condicional at 6( 159) + 0 on 14;

@@ -1,0 +1,7 @@
+Pasos:
+	ghdl -a bla.vhd
+	ghdl -a tb_bla.vhdl
+	ghdl -e bla
+	ghdl -e tb_bla
+	ghdl -r tb_bla --vcd=cronogram.vcd
+	gtkwave cronograma.vcd

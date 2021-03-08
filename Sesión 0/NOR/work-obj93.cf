@@ -1,0 +1,7 @@
+v 4
+file . "tb_nor2.vhd" "68f58603e870e5368cc68350d753405f3e854919" "20201013153954.284":
+  entity tb_nor2 at 1( 0) + 0 on 17;
+  architecture estructural of tb_nor2 at 4( 32) + 0 on 18;
+file . "nor2.vhd" "f50cb507bf33cf0394805fc31737c3af750641df" "20201013153950.334":
+  entity nor2 at 1( 0) + 0 on 15;
+  architecture comportamiento of nor2 at 6( 97) + 0 on 16;

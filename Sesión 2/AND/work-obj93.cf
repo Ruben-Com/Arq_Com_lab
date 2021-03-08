@@ -1,0 +1,10 @@
+v 4
+file . "tb_op_and_n.vhd" "60c84d42c20da3ff674bdbc48ecf0a4118e02a39" "20201022181317.389":
+  entity tb_op_and_n at 1( 0) + 0 on 15;
+  architecture estructural of tb_op_and_n at 4( 40) + 0 on 16;
+file . "and2.vhd" "85b35bafb958304d203cfd74f8467896e5d1050e" "20201022172029.981":
+  entity and2 at 3( 28) + 0 on 11;
+  architecture comportamiento of and2 at 8( 125) + 0 on 12;
+file . "op_and_n.vhd" "42d05e7f750cd0773295460d6e4d73191406326e" "20201022172044.293":
+  entity op_and_n at 1( 0) + 0 on 13;
+  architecture estructural of op_and_n at 6( 135) + 0 on 14;

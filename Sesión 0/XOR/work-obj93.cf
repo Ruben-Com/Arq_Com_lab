@@ -1,0 +1,7 @@
+v 4
+file . "tb_xor2.vhd" "2d8cb618412c34de5da30f516f7bb5f2be16418e" "20201013120114.278":
+  entity tb_xor2 at 1( 0) + 0 on 13;
+  architecture estructural of tb_xor2 at 4( 32) + 0 on 14;
+file . "xor2.vhd" "e305d1c2186ad2bfea7c95bbdb5d16193accc437" "20201013120107.759":
+  entity xor2 at 1( 0) + 0 on 11;
+  architecture comportamiento of xor2 at 6( 97) + 0 on 12;

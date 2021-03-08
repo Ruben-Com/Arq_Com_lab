@@ -1,0 +1,116 @@
+$date
+  Sun Oct 18 00:18:38 2020
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module tb_op_nor_4 $end
+$var reg 4 ! a[3:0] $end
+$var reg 4 " b[3:0] $end
+$var reg 4 # c[3:0] $end
+$scope module componente $end
+$var reg 4 $ vector_a[3:0] $end
+$var reg 4 % vector_b[3:0] $end
+$var reg 4 & vector_r[3:0] $end
+$scope module celda0 $end
+$var reg 1 ' e1 $end
+$var reg 1 ( e2 $end
+$var reg 1 ) sal $end
+$upscope $end
+$scope module celda1 $end
+$var reg 1 * e1 $end
+$var reg 1 + e2 $end
+$var reg 1 , sal $end
+$upscope $end
+$scope module celda2 $end
+$var reg 1 - e1 $end
+$var reg 1 . e2 $end
+$var reg 1 / sal $end
+$upscope $end
+$scope module celda3 $end
+$var reg 1 0 e1 $end
+$var reg 1 1 e2 $end
+$var reg 1 2 sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b0000 !
+b0000 "
+b0000 #
+b0000 $
+b0000 %
+b0000 &
+0'
+0(
+0)
+0*
+0+
+0,
+0-
+0.
+0/
+00
+01
+02
+#1000000
+b1111 #
+b1111 &
+1)
+1,
+1/
+12
+#5000000
+b1010 !
+b1111 "
+b1010 $
+b1111 %
+1(
+1*
+1+
+1.
+10
+11
+#6000000
+b0000 #
+b0000 &
+0)
+0,
+0/
+02
+#10000000
+b1111 !
+b0111 "
+b1111 $
+b0111 %
+1'
+1-
+01
+#11000000
+b0000 &
+0)
+0/
+02
+#15000000
+b0011 !
+b1010 "
+b0011 $
+b1010 %
+0(
+0-
+0.
+00
+11
+#16000000
+b0100 #
+b0100 &
+0)
+1/
+02
+#20000000

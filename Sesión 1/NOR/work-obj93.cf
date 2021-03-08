@@ -1,0 +1,10 @@
+v 4
+file . "op_nor_4.vhd" "e7368028b0367e08124903bfae892084ff893d82" "20201017195006.302":
+  entity op_nor_4 at 1( 0) + 0 on 13;
+  architecture estructural of op_nor_4 at 6( 133) + 0 on 14;
+file . "nor2.vhd" "f50cb507bf33cf0394805fc31737c3af750641df" "20201017194939.287":
+  entity nor2 at 1( 0) + 0 on 11;
+  architecture comportamiento of nor2 at 6( 97) + 0 on 12;
+file . "tb_op_nor_4.vhd" "b628849afa62dd51acc653ce2e87815e1ce53967" "20201017221823.289":
+  entity tb_op_nor_4 at 2( 53) + 0 on 17;
+  architecture estructural of tb_op_nor_4 at 5( 93) + 0 on 18;

@@ -1,0 +1,7 @@
+v 4
+file . "tb_nand2.vhd" "d159ee9625e73a56c93f2a9e2326d2bb48fb1d64" "20201013114819.333":
+  entity tb_nand2 at 1( 0) + 0 on 21;
+  architecture estructural of tb_nand2 at 4( 34) + 0 on 22;
+file . "nand2.vhd" "81b68db68ac19ab2c8d2949892f8e99df2fbdca4" "20201013114816.278":
+  entity nand2 at 1( 0) + 0 on 19;
+  architecture comportamiento of nand2 at 6( 99) + 0 on 20;

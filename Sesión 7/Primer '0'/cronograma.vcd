@@ -1,0 +1,2208 @@
+$date
+  Fri Dec 25 11:37:33 2020
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module tb_neg_c2 $end
+$var reg 16 ! a[15:0] $end
+$var reg 16 " b[15:0] $end
+$var reg 16 # r[15:0] $end
+$var reg 1 $ marca $end
+$var reg 1 % d $end
+$scope module componente $end
+$var reg 16 & x[15:0] $end
+$var reg 16 ' e[15:0] $end
+$var reg 16 ( r[15:0] $end
+$var reg 1 ) des $end
+$var reg 16 * c[15:0] $end
+$var reg 16 + cal_d[15:0] $end
+$var reg 1 , d $end
+$var reg 1 - de $end
+$var reg 1 . x_neg_0 $end
+$scope module x_neg $end
+$var reg 1 / e $end
+$var reg 1 0 sal $end
+$upscope $end
+$scope module g(0) $end
+$scope module primero $end
+$scope module primer_bit $end
+$var reg 1 1 x $end
+$var reg 1 2 e $end
+$var reg 1 3 c_in $end
+$var reg 1 4 r $end
+$var reg 1 5 c_out $end
+$var reg 1 6 e_and_c $end
+$var reg 1 7 x_negada $end
+$scope module neg_x $end
+$var reg 1 8 e $end
+$var reg 1 9 sal $end
+$upscope $end
+$scope module c_and_e $end
+$var reg 1 : e1 $end
+$var reg 1 ; e2 $end
+$var reg 1 < sal $end
+$upscope $end
+$scope module salida $end
+$var reg 1 = e1 $end
+$var reg 1 > e2 $end
+$var reg 1 ? sal $end
+$upscope $end
+$scope module siguiente_c $end
+$var reg 1 @ e1 $end
+$var reg 1 A e2 $end
+$var reg 1 B sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module g(1) $end
+$scope module intermedios $end
+$scope module siguientes $end
+$var reg 1 C x $end
+$var reg 1 D e $end
+$var reg 1 E c_in $end
+$var reg 1 F r $end
+$var reg 1 G c_out $end
+$var reg 1 H e_and_c $end
+$var reg 1 I x_negada $end
+$scope module neg_x $end
+$var reg 1 J e $end
+$var reg 1 K sal $end
+$upscope $end
+$scope module c_and_e $end
+$var reg 1 L e1 $end
+$var reg 1 M e2 $end
+$var reg 1 N sal $end
+$upscope $end
+$scope module salida $end
+$var reg 1 O e1 $end
+$var reg 1 P e2 $end
+$var reg 1 Q sal $end
+$upscope $end
+$scope module siguiente_c $end
+$var reg 1 R e1 $end
+$var reg 1 S e2 $end
+$var reg 1 T sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module g(2) $end
+$scope module intermedios $end
+$scope module siguientes $end
+$var reg 1 U x $end
+$var reg 1 V e $end
+$var reg 1 W c_in $end
+$var reg 1 X r $end
+$var reg 1 Y c_out $end
+$var reg 1 Z e_and_c $end
+$var reg 1 [ x_negada $end
+$scope module neg_x $end
+$var reg 1 \ e $end
+$var reg 1 ] sal $end
+$upscope $end
+$scope module c_and_e $end
+$var reg 1 ^ e1 $end
+$var reg 1 _ e2 $end
+$var reg 1 ` sal $end
+$upscope $end
+$scope module salida $end
+$var reg 1 a e1 $end
+$var reg 1 b e2 $end
+$var reg 1 c sal $end
+$upscope $end
+$scope module siguiente_c $end
+$var reg 1 d e1 $end
+$var reg 1 e e2 $end
+$var reg 1 f sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module g(3) $end
+$scope module intermedios $end
+$scope module siguientes $end
+$var reg 1 g x $end
+$var reg 1 h e $end
+$var reg 1 i c_in $end
+$var reg 1 j r $end
+$var reg 1 k c_out $end
+$var reg 1 l e_and_c $end
+$var reg 1 m x_negada $end
+$scope module neg_x $end
+$var reg 1 n e $end
+$var reg 1 o sal $end
+$upscope $end
+$scope module c_and_e $end
+$var reg 1 p e1 $end
+$var reg 1 q e2 $end
+$var reg 1 r sal $end
+$upscope $end
+$scope module salida $end
+$var reg 1 s e1 $end
+$var reg 1 t e2 $end
+$var reg 1 u sal $end
+$upscope $end
+$scope module siguiente_c $end
+$var reg 1 v e1 $end
+$var reg 1 w e2 $end
+$var reg 1 x sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module g(4) $end
+$scope module intermedios $end
+$scope module siguientes $end
+$var reg 1 y x $end
+$var reg 1 z e $end
+$var reg 1 { c_in $end
+$var reg 1 | r $end
+$var reg 1 } c_out $end
+$var reg 1 !" e_and_c $end
+$var reg 1 "" x_negada $end
+$scope module neg_x $end
+$var reg 1 #" e $end
+$var reg 1 $" sal $end
+$upscope $end
+$scope module c_and_e $end
+$var reg 1 %" e1 $end
+$var reg 1 &" e2 $end
+$var reg 1 '" sal $end
+$upscope $end
+$scope module salida $end
+$var reg 1 (" e1 $end
+$var reg 1 )" e2 $end
+$var reg 1 *" sal $end
+$upscope $end
+$scope module siguiente_c $end
+$var reg 1 +" e1 $end
+$var reg 1 ," e2 $end
+$var reg 1 -" sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module g(5) $end
+$scope module intermedios $end
+$scope module siguientes $end
+$var reg 1 ." x $end
+$var reg 1 /" e $end
+$var reg 1 0" c_in $end
+$var reg 1 1" r $end
+$var reg 1 2" c_out $end
+$var reg 1 3" e_and_c $end
+$var reg 1 4" x_negada $end
+$scope module neg_x $end
+$var reg 1 5" e $end
+$var reg 1 6" sal $end
+$upscope $end
+$scope module c_and_e $end
+$var reg 1 7" e1 $end
+$var reg 1 8" e2 $end
+$var reg 1 9" sal $end
+$upscope $end
+$scope module salida $end
+$var reg 1 :" e1 $end
+$var reg 1 ;" e2 $end
+$var reg 1 <" sal $end
+$upscope $end
+$scope module siguiente_c $end
+$var reg 1 =" e1 $end
+$var reg 1 >" e2 $end
+$var reg 1 ?" sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module g(6) $end
+$scope module intermedios $end
+$scope module siguientes $end
+$var reg 1 @" x $end
+$var reg 1 A" e $end
+$var reg 1 B" c_in $end
+$var reg 1 C" r $end
+$var reg 1 D" c_out $end
+$var reg 1 E" e_and_c $end
+$var reg 1 F" x_negada $end
+$scope module neg_x $end
+$var reg 1 G" e $end
+$var reg 1 H" sal $end
+$upscope $end
+$scope module c_and_e $end
+$var reg 1 I" e1 $end
+$var reg 1 J" e2 $end
+$var reg 1 K" sal $end
+$upscope $end
+$scope module salida $end
+$var reg 1 L" e1 $end
+$var reg 1 M" e2 $end
+$var reg 1 N" sal $end
+$upscope $end
+$scope module siguiente_c $end
+$var reg 1 O" e1 $end
+$var reg 1 P" e2 $end
+$var reg 1 Q" sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module g(7) $end
+$scope module intermedios $end
+$scope module siguientes $end
+$var reg 1 R" x $end
+$var reg 1 S" e $end
+$var reg 1 T" c_in $end
+$var reg 1 U" r $end
+$var reg 1 V" c_out $end
+$var reg 1 W" e_and_c $end
+$var reg 1 X" x_negada $end
+$scope module neg_x $end
+$var reg 1 Y" e $end
+$var reg 1 Z" sal $end
+$upscope $end
+$scope module c_and_e $end
+$var reg 1 [" e1 $end
+$var reg 1 \" e2 $end
+$var reg 1 ]" sal $end
+$upscope $end
+$scope module salida $end
+$var reg 1 ^" e1 $end
+$var reg 1 _" e2 $end
+$var reg 1 `" sal $end
+$upscope $end
+$scope module siguiente_c $end
+$var reg 1 a" e1 $end
+$var reg 1 b" e2 $end
+$var reg 1 c" sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module g(8) $end
+$scope module intermedios $end
+$scope module siguientes $end
+$var reg 1 d" x $end
+$var reg 1 e" e $end
+$var reg 1 f" c_in $end
+$var reg 1 g" r $end
+$var reg 1 h" c_out $end
+$var reg 1 i" e_and_c $end
+$var reg 1 j" x_negada $end
+$scope module neg_x $end
+$var reg 1 k" e $end
+$var reg 1 l" sal $end
+$upscope $end
+$scope module c_and_e $end
+$var reg 1 m" e1 $end
+$var reg 1 n" e2 $end
+$var reg 1 o" sal $end
+$upscope $end
+$scope module salida $end
+$var reg 1 p" e1 $end
+$var reg 1 q" e2 $end
+$var reg 1 r" sal $end
+$upscope $end
+$scope module siguiente_c $end
+$var reg 1 s" e1 $end
+$var reg 1 t" e2 $end
+$var reg 1 u" sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module g(9) $end
+$scope module intermedios $end
+$scope module siguientes $end
+$var reg 1 v" x $end
+$var reg 1 w" e $end
+$var reg 1 x" c_in $end
+$var reg 1 y" r $end
+$var reg 1 z" c_out $end
+$var reg 1 {" e_and_c $end
+$var reg 1 |" x_negada $end
+$scope module neg_x $end
+$var reg 1 }" e $end
+$var reg 1 !# sal $end
+$upscope $end
+$scope module c_and_e $end
+$var reg 1 "# e1 $end
+$var reg 1 ## e2 $end
+$var reg 1 $# sal $end
+$upscope $end
+$scope module salida $end
+$var reg 1 %# e1 $end
+$var reg 1 &# e2 $end
+$var reg 1 '# sal $end
+$upscope $end
+$scope module siguiente_c $end
+$var reg 1 (# e1 $end
+$var reg 1 )# e2 $end
+$var reg 1 *# sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module g(10) $end
+$scope module intermedios $end
+$scope module siguientes $end
+$var reg 1 +# x $end
+$var reg 1 ,# e $end
+$var reg 1 -# c_in $end
+$var reg 1 .# r $end
+$var reg 1 /# c_out $end
+$var reg 1 0# e_and_c $end
+$var reg 1 1# x_negada $end
+$scope module neg_x $end
+$var reg 1 2# e $end
+$var reg 1 3# sal $end
+$upscope $end
+$scope module c_and_e $end
+$var reg 1 4# e1 $end
+$var reg 1 5# e2 $end
+$var reg 1 6# sal $end
+$upscope $end
+$scope module salida $end
+$var reg 1 7# e1 $end
+$var reg 1 8# e2 $end
+$var reg 1 9# sal $end
+$upscope $end
+$scope module siguiente_c $end
+$var reg 1 :# e1 $end
+$var reg 1 ;# e2 $end
+$var reg 1 <# sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module g(11) $end
+$scope module intermedios $end
+$scope module siguientes $end
+$var reg 1 =# x $end
+$var reg 1 ># e $end
+$var reg 1 ?# c_in $end
+$var reg 1 @# r $end
+$var reg 1 A# c_out $end
+$var reg 1 B# e_and_c $end
+$var reg 1 C# x_negada $end
+$scope module neg_x $end
+$var reg 1 D# e $end
+$var reg 1 E# sal $end
+$upscope $end
+$scope module c_and_e $end
+$var reg 1 F# e1 $end
+$var reg 1 G# e2 $end
+$var reg 1 H# sal $end
+$upscope $end
+$scope module salida $end
+$var reg 1 I# e1 $end
+$var reg 1 J# e2 $end
+$var reg 1 K# sal $end
+$upscope $end
+$scope module siguiente_c $end
+$var reg 1 L# e1 $end
+$var reg 1 M# e2 $end
+$var reg 1 N# sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module g(12) $end
+$scope module intermedios $end
+$scope module siguientes $end
+$var reg 1 O# x $end
+$var reg 1 P# e $end
+$var reg 1 Q# c_in $end
+$var reg 1 R# r $end
+$var reg 1 S# c_out $end
+$var reg 1 T# e_and_c $end
+$var reg 1 U# x_negada $end
+$scope module neg_x $end
+$var reg 1 V# e $end
+$var reg 1 W# sal $end
+$upscope $end
+$scope module c_and_e $end
+$var reg 1 X# e1 $end
+$var reg 1 Y# e2 $end
+$var reg 1 Z# sal $end
+$upscope $end
+$scope module salida $end
+$var reg 1 [# e1 $end
+$var reg 1 \# e2 $end
+$var reg 1 ]# sal $end
+$upscope $end
+$scope module siguiente_c $end
+$var reg 1 ^# e1 $end
+$var reg 1 _# e2 $end
+$var reg 1 `# sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module g(13) $end
+$scope module intermedios $end
+$scope module siguientes $end
+$var reg 1 a# x $end
+$var reg 1 b# e $end
+$var reg 1 c# c_in $end
+$var reg 1 d# r $end
+$var reg 1 e# c_out $end
+$var reg 1 f# e_and_c $end
+$var reg 1 g# x_negada $end
+$scope module neg_x $end
+$var reg 1 h# e $end
+$var reg 1 i# sal $end
+$upscope $end
+$scope module c_and_e $end
+$var reg 1 j# e1 $end
+$var reg 1 k# e2 $end
+$var reg 1 l# sal $end
+$upscope $end
+$scope module salida $end
+$var reg 1 m# e1 $end
+$var reg 1 n# e2 $end
+$var reg 1 o# sal $end
+$upscope $end
+$scope module siguiente_c $end
+$var reg 1 p# e1 $end
+$var reg 1 q# e2 $end
+$var reg 1 r# sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module g(14) $end
+$scope module intermedios $end
+$scope module siguientes $end
+$var reg 1 s# x $end
+$var reg 1 t# e $end
+$var reg 1 u# c_in $end
+$var reg 1 v# r $end
+$var reg 1 w# c_out $end
+$var reg 1 x# e_and_c $end
+$var reg 1 y# x_negada $end
+$scope module neg_x $end
+$var reg 1 z# e $end
+$var reg 1 {# sal $end
+$upscope $end
+$scope module c_and_e $end
+$var reg 1 |# e1 $end
+$var reg 1 }# e2 $end
+$var reg 1 !$ sal $end
+$upscope $end
+$scope module salida $end
+$var reg 1 "$ e1 $end
+$var reg 1 #$ e2 $end
+$var reg 1 $$ sal $end
+$upscope $end
+$scope module siguiente_c $end
+$var reg 1 %$ e1 $end
+$var reg 1 &$ e2 $end
+$var reg 1 '$ sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module g(15) $end
+$scope module intermedios $end
+$scope module siguientes $end
+$var reg 1 ($ x $end
+$var reg 1 )$ e $end
+$var reg 1 *$ c_in $end
+$var reg 1 +$ r $end
+$var reg 1 ,$ c_out $end
+$var reg 1 -$ e_and_c $end
+$var reg 1 .$ x_negada $end
+$scope module neg_x $end
+$var reg 1 /$ e $end
+$var reg 1 0$ sal $end
+$upscope $end
+$scope module c_and_e $end
+$var reg 1 1$ e1 $end
+$var reg 1 2$ e2 $end
+$var reg 1 3$ sal $end
+$upscope $end
+$scope module salida $end
+$var reg 1 4$ e1 $end
+$var reg 1 5$ e2 $end
+$var reg 1 6$ sal $end
+$upscope $end
+$scope module siguiente_c $end
+$var reg 1 7$ e1 $end
+$var reg 1 8$ e2 $end
+$var reg 1 9$ sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module b(1) $end
+$scope module primer $end
+$scope module primeros_bit $end
+$var reg 1 :$ e1 $end
+$var reg 1 ;$ e2 $end
+$var reg 1 <$ sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module b(2) $end
+$scope module intermedio $end
+$scope module siguiente $end
+$var reg 1 =$ e1 $end
+$var reg 1 >$ e2 $end
+$var reg 1 ?$ sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module b(3) $end
+$scope module intermedio $end
+$scope module siguiente $end
+$var reg 1 @$ e1 $end
+$var reg 1 A$ e2 $end
+$var reg 1 B$ sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module b(4) $end
+$scope module intermedio $end
+$scope module siguiente $end
+$var reg 1 C$ e1 $end
+$var reg 1 D$ e2 $end
+$var reg 1 E$ sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module b(5) $end
+$scope module intermedio $end
+$scope module siguiente $end
+$var reg 1 F$ e1 $end
+$var reg 1 G$ e2 $end
+$var reg 1 H$ sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module b(6) $end
+$scope module intermedio $end
+$scope module siguiente $end
+$var reg 1 I$ e1 $end
+$var reg 1 J$ e2 $end
+$var reg 1 K$ sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module b(7) $end
+$scope module intermedio $end
+$scope module siguiente $end
+$var reg 1 L$ e1 $end
+$var reg 1 M$ e2 $end
+$var reg 1 N$ sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module b(8) $end
+$scope module intermedio $end
+$scope module siguiente $end
+$var reg 1 O$ e1 $end
+$var reg 1 P$ e2 $end
+$var reg 1 Q$ sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module b(9) $end
+$scope module intermedio $end
+$scope module siguiente $end
+$var reg 1 R$ e1 $end
+$var reg 1 S$ e2 $end
+$var reg 1 T$ sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module b(10) $end
+$scope module intermedio $end
+$scope module siguiente $end
+$var reg 1 U$ e1 $end
+$var reg 1 V$ e2 $end
+$var reg 1 W$ sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module b(11) $end
+$scope module intermedio $end
+$scope module siguiente $end
+$var reg 1 X$ e1 $end
+$var reg 1 Y$ e2 $end
+$var reg 1 Z$ sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module b(12) $end
+$scope module intermedio $end
+$scope module siguiente $end
+$var reg 1 [$ e1 $end
+$var reg 1 \$ e2 $end
+$var reg 1 ]$ sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module b(13) $end
+$scope module intermedio $end
+$scope module siguiente $end
+$var reg 1 ^$ e1 $end
+$var reg 1 _$ e2 $end
+$var reg 1 `$ sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module b(14) $end
+$scope module final $end
+$scope module ultimo $end
+$var reg 1 a$ e1 $end
+$var reg 1 b$ e2 $end
+$var reg 1 c$ sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module d_negada $end
+$var reg 1 d$ e $end
+$var reg 1 e$ sal $end
+$upscope $end
+$scope module desborde $end
+$var reg 1 f$ e1 $end
+$var reg 1 g$ e2 $end
+$var reg 1 h$ sal $end
+$upscope $end
+$scope module desbor $end
+$var reg 1 i$ e $end
+$var reg 1 j$ sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b0000000000000000 !
+b0000000000000000 "
+b0000000000000000 #
+0$
+0%
+b0000000000000000 &
+b0000000000000000 '
+b0000000000000000 (
+0)
+b0000000000000000 *
+b0000000000000000 +
+0,
+0-
+0.
+0/
+00
+01
+02
+03
+04
+05
+06
+07
+08
+09
+0:
+0;
+0<
+0=
+0>
+0?
+0@
+0A
+0B
+0C
+0D
+0E
+0F
+0G
+0H
+0I
+0J
+0K
+0L
+0M
+0N
+0O
+0P
+0Q
+0R
+0S
+0T
+0U
+0V
+0W
+0X
+0Y
+0Z
+0[
+0\
+0]
+0^
+0_
+0`
+0a
+0b
+0c
+0d
+0e
+0f
+0g
+0h
+0i
+0j
+0k
+0l
+0m
+0n
+0o
+0p
+0q
+0r
+0s
+0t
+0u
+0v
+0w
+0x
+0y
+0z
+0{
+0|
+0}
+0!"
+0""
+0#"
+0$"
+0%"
+0&"
+0'"
+0("
+0)"
+0*"
+0+"
+0,"
+0-"
+0."
+0/"
+00"
+01"
+02"
+03"
+04"
+05"
+06"
+07"
+08"
+09"
+0:"
+0;"
+0<"
+0="
+0>"
+0?"
+0@"
+0A"
+0B"
+0C"
+0D"
+0E"
+0F"
+0G"
+0H"
+0I"
+0J"
+0K"
+0L"
+0M"
+0N"
+0O"
+0P"
+0Q"
+0R"
+0S"
+0T"
+0U"
+0V"
+0W"
+0X"
+0Y"
+0Z"
+0["
+0\"
+0]"
+0^"
+0_"
+0`"
+0a"
+0b"
+0c"
+0d"
+0e"
+0f"
+0g"
+0h"
+0i"
+0j"
+0k"
+0l"
+0m"
+0n"
+0o"
+0p"
+0q"
+0r"
+0s"
+0t"
+0u"
+0v"
+0w"
+0x"
+0y"
+0z"
+0{"
+0|"
+0}"
+0!#
+0"#
+0##
+0$#
+0%#
+0&#
+0'#
+0(#
+0)#
+0*#
+0+#
+0,#
+0-#
+0.#
+0/#
+00#
+01#
+02#
+03#
+04#
+05#
+06#
+07#
+08#
+09#
+0:#
+0;#
+0<#
+0=#
+0>#
+0?#
+0@#
+0A#
+0B#
+0C#
+0D#
+0E#
+0F#
+0G#
+0H#
+0I#
+0J#
+0K#
+0L#
+0M#
+0N#
+0O#
+0P#
+0Q#
+0R#
+0S#
+0T#
+0U#
+0V#
+0W#
+0X#
+0Y#
+0Z#
+0[#
+0\#
+0]#
+0^#
+0_#
+0`#
+0a#
+0b#
+0c#
+0d#
+0e#
+0f#
+0g#
+0h#
+0i#
+0j#
+0k#
+0l#
+0m#
+0n#
+0o#
+0p#
+0q#
+0r#
+0s#
+0t#
+0u#
+0v#
+0w#
+0x#
+0y#
+0z#
+0{#
+0|#
+0}#
+0!$
+0"$
+0#$
+0$$
+0%$
+0&$
+0'$
+0($
+0)$
+0*$
+0+$
+0,$
+0-$
+0.$
+0/$
+00$
+01$
+02$
+03$
+04$
+05$
+06$
+07$
+08$
+09$
+0:$
+0;$
+0<$
+0=$
+0>$
+0?$
+0@$
+0A$
+0B$
+0C$
+0D$
+0E$
+0F$
+0G$
+0H$
+0I$
+0J$
+0K$
+0L$
+0M$
+0N$
+0O$
+0P$
+0Q$
+0R$
+0S$
+0T$
+0U$
+0V$
+0W$
+0X$
+0Y$
+0Z$
+0[$
+0\$
+0]$
+0^$
+0_$
+0`$
+0a$
+0b$
+0c$
+0d$
+0e$
+0f$
+0g$
+0h$
+0i$
+0j$
+#1000000
+1%
+1)
+1,
+1.
+10
+13
+05
+17
+19
+1;
+0<
+1@
+1A
+0B
+0G
+1I
+1K
+0N
+1R
+0T
+0Y
+1[
+1]
+0`
+1d
+0f
+0k
+1m
+1o
+0r
+1v
+0x
+0}
+1""
+1$"
+0'"
+1+"
+0-"
+02"
+14"
+16"
+09"
+1="
+0?"
+0D"
+1F"
+1H"
+0K"
+1O"
+0Q"
+0V"
+1X"
+1Z"
+0]"
+1a"
+0c"
+0h"
+1j"
+1l"
+0o"
+1s"
+0u"
+0z"
+1|"
+1!#
+0$#
+1(#
+0*#
+0/#
+11#
+13#
+06#
+1:#
+0<#
+0A#
+1C#
+1E#
+0H#
+1L#
+0N#
+0S#
+1U#
+1W#
+0Z#
+1^#
+0`#
+0e#
+1g#
+1i#
+0l#
+1p#
+0r#
+0w#
+1y#
+1{#
+0!$
+1%$
+0'$
+0,$
+1.$
+10$
+03$
+17$
+09$
+0<$
+0?$
+0B$
+0E$
+0H$
+0K$
+0N$
+0Q$
+0T$
+0W$
+0Z$
+0]$
+0`$
+0c$
+1e$
+1f$
+0h$
+1j$
+#2000000
+b1111111111111111 *
+1-
+15
+0<
+1B
+1E
+1G
+1M
+1S
+1T
+1W
+1Y
+1_
+1e
+1f
+1i
+1k
+1q
+1w
+1x
+1{
+1}
+1&"
+1,"
+1-"
+10"
+12"
+18"
+1>"
+1?"
+1B"
+1D"
+1J"
+1P"
+1Q"
+1T"
+1V"
+1\"
+1b"
+1c"
+1f"
+1h"
+1n"
+1t"
+1u"
+1x"
+1z"
+1##
+1)#
+1*#
+1-#
+1/#
+15#
+1;#
+1<#
+1?#
+1A#
+1G#
+1M#
+1N#
+1Q#
+1S#
+1Y#
+1_#
+1`#
+1c#
+1e#
+1k#
+1q#
+1r#
+1u#
+1w#
+1}#
+1&$
+1'$
+1*$
+1,$
+12$
+18$
+19$
+1h$
+1i$
+#3000000
+0%
+b0000000000000000 (
+0)
+04
+0?
+0F
+1G
+0N
+0Q
+1T
+0X
+1Y
+0`
+0c
+1f
+0j
+1k
+0r
+0u
+1x
+0|
+1}
+0'"
+0*"
+1-"
+01"
+12"
+09"
+0<"
+1?"
+0C"
+1D"
+0K"
+0N"
+1Q"
+0U"
+1V"
+0]"
+0`"
+1c"
+0g"
+1h"
+0o"
+0r"
+1u"
+0y"
+1z"
+0$#
+0'#
+1*#
+0.#
+1/#
+06#
+09#
+1<#
+0@#
+1A#
+0H#
+0K#
+1N#
+0R#
+1S#
+0Z#
+0]#
+1`#
+0d#
+1e#
+0l#
+0o#
+1r#
+0v#
+1w#
+0!$
+0$$
+1'$
+0+$
+1,$
+03$
+06$
+19$
+0j$
+#10000000
+b1111111111111111 !
+b1111111111111111 &
+1/
+11
+18
+1=
+1C
+1J
+1O
+1U
+1\
+1a
+1g
+1n
+1s
+1y
+1#"
+1("
+1."
+15"
+1:"
+1@"
+1G"
+1L"
+1R"
+1Y"
+1^"
+1d"
+1k"
+1p"
+1v"
+1}"
+1%#
+1+#
+12#
+17#
+1=#
+1D#
+1I#
+1O#
+1V#
+1[#
+1a#
+1h#
+1m#
+1s#
+1z#
+1"$
+1($
+1/$
+14$
+1:$
+1;$
+1=$
+1@$
+1C$
+1F$
+1I$
+1L$
+1O$
+1R$
+1U$
+1X$
+1[$
+1^$
+1a$
+1d$
+#11000000
+b0111111111111110 +
+0,
+0.
+00
+03
+07
+09
+0;
+0@
+0A
+0I
+0K
+0R
+0[
+0]
+0d
+0m
+0o
+0v
+0""
+0$"
+0+"
+04"
+06"
+0="
+0F"
+0H"
+0O"
+0X"
+0Z"
+0a"
+0j"
+0l"
+0s"
+0|"
+0!#
+0(#
+01#
+03#
+0:#
+0C#
+0E#
+0L#
+0U#
+0W#
+0^#
+0g#
+0i#
+0p#
+0y#
+0{#
+0%$
+0.$
+00$
+07$
+1<$
+1>$
+1?$
+1A$
+1B$
+1D$
+1E$
+1G$
+1H$
+1J$
+1K$
+1M$
+1N$
+1P$
+1Q$
+1S$
+1T$
+1V$
+1W$
+1Y$
+1Z$
+1\$
+1]$
+1_$
+1`$
+1b$
+1c$
+0e$
+0f$
+1g$
+#12000000
+b1111111111111110 *
+05
+0<
+0B
+0E
+1G
+0M
+0S
+1T
+1Y
+1f
+1k
+1x
+1}
+1-"
+12"
+1?"
+1D"
+1Q"
+1V"
+1c"
+1h"
+1u"
+1z"
+1*#
+1/#
+1<#
+1A#
+1N#
+1S#
+1`#
+1e#
+1r#
+1w#
+1'$
+1,$
+19$
+1?$
+1B$
+1E$
+1H$
+1K$
+1N$
+1Q$
+1T$
+1W$
+1Z$
+1]$
+1`$
+1c$
+1h$
+#13000000
+b1111111111111111 #
+b1111111111111111 (
+b1111111111111100 *
+14
+1?
+1F
+0G
+0N
+1Q
+0T
+0W
+1X
+0_
+1c
+0e
+1j
+1u
+1|
+1*"
+11"
+1<"
+1C"
+1N"
+1U"
+1`"
+1g"
+1r"
+1y"
+1'#
+1.#
+19#
+1@#
+1K#
+1R#
+1]#
+1d#
+1o#
+1v#
+1$$
+1+$
+16$
+#14000000
+b1111111111111000 *
+0Y
+0`
+0f
+0i
+0q
+0w
+#15000000
+b1111111111110000 *
+0k
+0r
+0x
+0{
+0&"
+0,"
+#16000000
+b1111111111100000 *
+0}
+0'"
+0-"
+00"
+08"
+0>"
+#17000000
+b1111111111000000 *
+02"
+09"
+0?"
+0B"
+0J"
+0P"
+#18000000
+b1111111110000000 *
+0D"
+0K"
+0Q"
+0T"
+0\"
+0b"
+#19000000
+b1111111100000000 *
+0V"
+0]"
+0c"
+0f"
+0n"
+0t"
+#20000000
+b1111111111111111 "
+1$
+b1111111111111111 '
+b1111111000000000 *
+12
+1:
+1D
+1L
+1V
+1^
+1h
+1p
+1z
+1%"
+1/"
+17"
+1A"
+1I"
+1S"
+1["
+1e"
+0h"
+1m"
+0o"
+0u"
+1w"
+0x"
+1"#
+0##
+0)#
+1,#
+14#
+1>#
+1F#
+1P#
+1X#
+1b#
+1j#
+1t#
+1|#
+1)$
+11$
+#21000000
+b1111110000000000 *
+0<
+0N
+0`
+0r
+0'"
+09"
+0K"
+0]"
+0o"
+0z"
+0$#
+0*#
+0-#
+10#
+05#
+16#
+18#
+0;#
+1B#
+1H#
+1J#
+1T#
+1Z#
+1\#
+1f#
+1l#
+1n#
+1x#
+1!$
+1#$
+1-$
+13$
+15$
+#22000000
+b1111100000000000 *
+0/#
+00#
+06#
+08#
+0<#
+0?#
+0G#
+0M#
+#23000000
+b1111000000000000 *
+0A#
+0B#
+0H#
+0J#
+0N#
+0Q#
+0Y#
+0_#
+#24000000
+b0000111111111111 #
+0$
+b0000111111111111 (
+b1110000000000000 *
+0R#
+0S#
+0T#
+0Z#
+0\#
+0]#
+0`#
+0c#
+0d#
+0k#
+0o#
+0q#
+0v#
+0$$
+0+$
+06$
+#25000000
+b0000111111111111 (
+b1100000000000000 *
+1.#
+19#
+0e#
+0f#
+0l#
+0n#
+0r#
+0u#
+0}#
+0&$
+#26000000
+b0000111111111111 (
+b1000000000000000 *
+1@#
+1K#
+0w#
+0x#
+0!$
+0#$
+0'$
+0*$
+02$
+08$
+#27000000
+b0001111111111111 #
+b0001111111111111 (
+b0000000000000000 *
+1R#
+1]#
+0,$
+0-$
+03$
+05$
+09$
+#28000000
+b0011111111111111 #
+b0011111111111111 (
+1d#
+1o#
+#29000000
+b0111111111111111 #
+b0111111111111111 (
+1v#
+1$$
+#30000000
+b1111111111111111 #
+b1111111111111111 (
+1+$
+16$
+#34000000
+b1000000000000000 !
+1$
+b1000000000000000 &
+0/
+01
+08
+0=
+0C
+0J
+0O
+0U
+0\
+0a
+0g
+0n
+0s
+0y
+0#"
+0("
+0."
+05"
+0:"
+0@"
+0G"
+0L"
+0R"
+0Y"
+0^"
+0d"
+0k"
+0p"
+0v"
+0}"
+0%#
+0+#
+02#
+07#
+0=#
+0D#
+0I#
+0O#
+0V#
+0[#
+0a#
+0h#
+0m#
+0s#
+0z#
+0"$
+0:$
+0;$
+0=$
+0@$
+0C$
+0F$
+0I$
+0L$
+0O$
+0R$
+0U$
+0X$
+0[$
+0^$
+0a$
+#35000000
+b0111111111111100 +
+1.
+10
+13
+17
+19
+1;
+1@
+1A
+1I
+1K
+1R
+1[
+1]
+1d
+1m
+1o
+1v
+1""
+1$"
+1+"
+14"
+16"
+1="
+1F"
+1H"
+1O"
+1X"
+1Z"
+1a"
+1j"
+1l"
+1s"
+1|"
+1!#
+1(#
+11#
+13#
+1:#
+1C#
+1E#
+1L#
+1U#
+1W#
+1^#
+1g#
+1i#
+1p#
+1y#
+1{#
+1%$
+0<$
+0>$
+1?$
+1B$
+1E$
+1H$
+1K$
+1N$
+1Q$
+1T$
+1W$
+1Z$
+1]$
+1`$
+1c$
+#36000000
+b0111111111111111 *
+b0111111111111000 +
+15
+16
+1<
+1>
+1B
+1E
+1G
+1M
+1S
+1T
+1W
+1Y
+1_
+1e
+1f
+1i
+1k
+1q
+1w
+1x
+1{
+1}
+1&"
+1,"
+1-"
+10"
+12"
+18"
+1>"
+1?"
+1B"
+1D"
+1J"
+1P"
+1Q"
+1T"
+1V"
+1\"
+1b"
+1c"
+1f"
+1h"
+1n"
+1t"
+1u"
+1x"
+1z"
+1##
+1)#
+1*#
+1-#
+1/#
+15#
+1;#
+1<#
+1?#
+1A#
+1G#
+1M#
+1N#
+1Q#
+1S#
+1Y#
+1_#
+1`#
+1c#
+1e#
+1k#
+1q#
+1r#
+1u#
+1w#
+1}#
+1&$
+1'$
+1*$
+12$
+18$
+0?$
+0A$
+#37000000
+b1000000000000001 #
+b1000000000000001 (
+b1111111111111111 *
+b0111111111110000 +
+0F
+1G
+1H
+1N
+1P
+0Q
+1T
+0X
+1Y
+1Z
+1`
+1b
+0c
+1f
+0j
+1k
+1l
+1r
+1t
+0u
+1x
+0|
+1}
+1!"
+1'"
+1)"
+0*"
+1-"
+01"
+12"
+13"
+19"
+1;"
+0<"
+1?"
+0C"
+1D"
+1E"
+1K"
+1M"
+0N"
+1Q"
+0U"
+1V"
+1W"
+1]"
+1_"
+0`"
+1c"
+0g"
+1h"
+1i"
+1o"
+1q"
+0r"
+1u"
+0y"
+1z"
+1{"
+1$#
+1&#
+0'#
+1*#
+0.#
+1/#
+10#
+16#
+18#
+09#
+1<#
+0@#
+1A#
+1B#
+1H#
+1J#
+0K#
+1N#
+0R#
+1S#
+1T#
+1Z#
+1\#
+0]#
+1`#
+0d#
+1e#
+1f#
+1l#
+1n#
+0o#
+1r#
+0v#
+1w#
+1x#
+1!$
+1#$
+0$$
+1'$
+1,$
+1-$
+13$
+15$
+19$
+0B$
+0D$
+#38000000
+b0111111111100000 +
+0E$
+0G$
+#39000000
+b1000000000000001 (
+b0111111111000000 +
+14
+1?
+0H$
+0J$
+#40000000
+b0111111111111111 #
+b0111111111111111 (
+b0111111110000000 +
+1F
+1Q
+1X
+1c
+1j
+1u
+1|
+1*"
+11"
+1<"
+1C"
+1N"
+1U"
+1`"
+1g"
+1r"
+1y"
+1'#
+1.#
+19#
+1@#
+1K#
+1R#
+1]#
+1d#
+1o#
+1v#
+1$$
+0+$
+06$
+0K$
+0M$
+#41000000
+b0111111100000000 +
+0N$
+0P$
+#42000000
+b0111111000000000 +
+0Q$
+0S$
+#43000000
+b0111110000000000 +
+0T$
+0V$
+#44000000
+b0111100000000000 +
+0W$
+0Y$
+#45000000
+b0111000000000000 +
+0Z$
+0\$
+#46000000
+b0110000000000000 +
+0]$
+0_$
+#47000000
+b0100000000000000 +
+0`$
+0b$
+#48000000
+b0000000000000000 +
+0c$
+0g$
+#49000000
+0-
+0h$
+0i$
+#50000000
+0$
+1%
+1)
+1j$
+#60000000

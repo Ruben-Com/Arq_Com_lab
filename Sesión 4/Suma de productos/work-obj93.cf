@@ -1,0 +1,22 @@
+v 4
+file . "RCA.vhd" "c8f7bdf09ab3ab3958fd367563b3c0e141610bd7" "20201210095323.495":
+  entity rca at 1( 0) + 0 on 69;
+  architecture estructural of rca at 6( 166) + 0 on 70;
+file . "suma_de_productos.vhd" "2bb5e37ba0fc9d591b81e551790d3bb5268ff6a9" "20201113120318.659":
+  entity suma_de_productos at 1( 0) + 0 on 21;
+  architecture estructural of suma_de_productos at 6( 180) + 0 on 22;
+file . "or4.vhd" "199fac6ba94e1f909d9b2e11bc4befa94b154c1b" "20201210095237.721":
+  entity or4 at 1( 0) + 0 on 63;
+  architecture comportamiento of or4 at 6( 103) + 0 on 64;
+file . "and3.vhd" "1a1922daa25e8d321f2674694ac7001068c5f8d9" "20201210095246.470":
+  entity and3 at 1( 0) + 0 on 65;
+  architecture comportamiento of and3 at 6( 101) + 0 on 66;
+file . "not2.vhd" "8000f5251bcd6c238a71820f78eb7a9b65d4c704" "20201210095231.931":
+  entity not2 at 1( 0) + 0 on 61;
+  architecture comportamiento of not2 at 6( 92) + 0 on 62;
+file . "sumador.vhd" "8870adab7ceed6302651ee5ad56c46a84d638ec1" "20201210095311.781":
+  entity sumador at 1( 0) + 0 on 67;
+  architecture estructural of sumador at 5( 78) + 0 on 68;
+file . "tb_RCA.vhd" "b63b02b97f258536180e285a8ecf65fc41218154" "20201210095335.459":
+  entity tb_rca at 1( 0) + 0 on 71;
+  architecture estructural of tb_rca at 4( 30) + 0 on 72;

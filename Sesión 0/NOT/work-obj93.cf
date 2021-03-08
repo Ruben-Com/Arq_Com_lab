@@ -1,0 +1,7 @@
+v 4
+file . "tb_not2.vhd" "634939da492032182362d0d2094e7562cfcdbb43" "20201013160718.469":
+  entity tb_not2 at 1( 0) + 0 on 17;
+  architecture estructural of tb_not2 at 4( 32) + 0 on 18;
+file . "not2.vhd" "1732fac448c7704d7e73614669dbcffaa7131e5d" "20201013160652.769":
+  entity not2 at 1( 0) + 0 on 15;
+  architecture comportamiento of not2 at 6( 104) + 0 on 16;

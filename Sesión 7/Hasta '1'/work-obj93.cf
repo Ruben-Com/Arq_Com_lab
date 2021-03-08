@@ -1,0 +1,22 @@
+v 4
+file . "tb_NEG_C2.vhd" "900ca0375adc511096caaa061d7a6e8448e01963" "20201226104952.716":
+  entity tb_neg_c2 at 1( 0) + 0 on 89;
+  architecture estructural of tb_neg_c2 at 4( 36) + 0 on 90;
+file . "Bloque_neg.vhd" "c59ac20c5bb61922eb52b343f484e630defaff7f" "20201225105044.547":
+  entity bloque_neg at 1( 0) + 0 on 51;
+  architecture estructural of bloque_neg at 5( 80) + 0 on 52;
+file . "or2.vhd" "052e16386f2da5a5be2b15a48d8bcecbf114b4da" "20201223182302.819":
+  entity or2 at 1( 0) + 0 on 13;
+  architecture comportamiento of or2 at 6( 95) + 0 on 14;
+file . "and2.vhd" "ef1e40daa6924319775ca6de256b1c827c523f48" "20201223182253.874":
+  entity and2 at 1( 0) + 0 on 11;
+  architecture comportamiento of and2 at 6( 97) + 0 on 12;
+file . "xor2.vhd" "e305d1c2186ad2bfea7c95bbdb5d16193accc437" "20201223182311.971":
+  entity xor2 at 1( 0) + 0 on 15;
+  architecture comportamiento of xor2 at 6( 97) + 0 on 16;
+file . "NEG_C2.vhd" "260423592dcce57c721c653b1e0e03ca5b1dc9a9" "20201226104737.614":
+  entity neg_c2 at 1( 0) + 0 on 83;
+  architecture estructural of neg_c2 at 6( 145) + 0 on 84;
+file . "not2.vhd" "8000f5251bcd6c238a71820f78eb7a9b65d4c704" "20201223195016.752":
+  entity not2 at 1( 0) + 0 on 35;
+  architecture comportamiento of not2 at 6( 92) + 0 on 36;

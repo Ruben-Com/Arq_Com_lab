@@ -1,0 +1,138 @@
+$date
+  Fri Oct 30 12:56:11 2020
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module tb_inversor_condicional $end
+$var reg 2 ! a[1:0] $end
+$var reg 2 " b[1:0] $end
+$var reg 2 # c[1:0] $end
+$scope module operador $end
+$var reg 2 $ x[1:0] $end
+$var reg 2 % y[1:0] $end
+$var reg 2 & r[1:0] $end
+$scope module bateria(0) $end
+$scope module puertas $end
+$var reg 1 ' e1 $end
+$var reg 1 ( e2 $end
+$var reg 1 ) sal $end
+$upscope $end
+$upscope $end
+$scope module bateria(1) $end
+$scope module puertas $end
+$var reg 1 * e1 $end
+$var reg 1 + e2 $end
+$var reg 1 , sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b00 !
+b11 "
+b00 #
+b00 $
+b11 %
+b00 &
+0'
+1(
+0)
+0*
+1+
+0,
+#2000000
+b11 #
+b11 &
+1)
+1,
+#4000000
+#6000000
+#8000000
+b01 !
+b01 $
+1'
+#10000000
+b10 #
+b10 &
+0)
+#12000000
+#14000000
+#16000000
+b10 !
+b10 $
+0'
+1*
+#18000000
+b01 #
+b01 &
+1)
+0,
+#20000000
+#22000000
+#24000000
+b11 !
+b11 $
+1'
+#26000000
+b00 #
+b00 &
+0)
+#28000000
+#30000000
+#32000000
+#34000000
+b00 !
+b00 "
+b00 $
+b00 %
+0'
+0(
+0*
+0+
+#36000000
+b00 &
+0)
+0,
+#38000000
+#40000000
+#42000000
+b01 !
+b01 $
+1'
+#44000000
+b01 #
+b01 &
+1)
+#46000000
+#48000000
+#50000000
+b10 !
+b10 $
+0'
+1*
+#52000000
+b10 #
+b10 &
+0)
+1,
+#54000000
+#56000000
+#58000000
+b11 !
+b11 $
+1'
+#60000000
+b11 #
+b11 &
+1)
+#62000000
+#64000000
+#66000000
+#68000000

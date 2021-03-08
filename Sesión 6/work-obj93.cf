@@ -1,0 +1,31 @@
+v 4
+file . "CSK.vhd" "65ac4b1dfc8e33c0a088881a5e632bfbd9136e77" "20201223111440.482":
+  entity csk at 1( 0) + 0 on 29;
+  architecture estructural of csk at 6( 167) + 0 on 30;
+file . "Bloque_P.vhd" "4ce7a2879969dc606be306750f2d449994f203f7" "20201223110511.968":
+  entity bloque_p at 1( 0) + 0 on 25;
+  architecture estructural of bloque_p at 6( 118) + 0 on 26;
+file . "sumador.vhd" "209eb61060cf559f2be93be77c817c96fe93bde6" "20201223110407.396":
+  entity sumador at 1( 0) + 0 on 21;
+  architecture estructural of sumador at 5( 78) + 0 on 22;
+file . "xor2.vhd" "e305d1c2186ad2bfea7c95bbdb5d16193accc437" "20201223105937.707":
+  entity xor2 at 1( 0) + 0 on 17;
+  architecture comportamiento of xor2 at 6( 97) + 0 on 18;
+file . "and2.vhd" "ef1e40daa6924319775ca6de256b1c827c523f48" "20201223105754.294":
+  entity and2 at 1( 0) + 0 on 13;
+  architecture comportamiento of and2 at 6( 97) + 0 on 14;
+file . "or2.vhd" "052e16386f2da5a5be2b15a48d8bcecbf114b4da" "20201223105615.164":
+  entity or2 at 1( 0) + 0 on 11;
+  architecture comportamiento of or2 at 6( 95) + 0 on 12;
+file . "RCA.vhd" "4fb7846fcf83494cbb2e79d24d80ff3fc42929ef" "20201223110418.878":
+  entity rca at 1( 0) + 0 on 23;
+  architecture estructural of rca at 6( 163) + 0 on 24;
+file . "semisumador.vhd" "8bd89d7a1e81c3dcedee32b99cad8518212873cd" "20201223110357.758":
+  entity semisumador at 1( 0) + 0 on 19;
+  architecture estructural of semisumador at 5( 84) + 0 on 20;
+file . "Bloque_CSK.vhd" "4caa68d06fb93cfc2fb42790dd824613ee202b7e" "20201223110556.857":
+  entity bloque_csk at 1( 0) + 0 on 27;
+  architecture estructural of bloque_csk at 6( 173) + 0 on 28;
+file . "tb_CSK.vhd" "54a902596f7e88ca6983b310583c87419305cd36" "20210131230226.322":
+  entity tb_csk at 1( 0) + 0 on 37;
+  architecture estructural of tb_csk at 4( 30) + 0 on 38;

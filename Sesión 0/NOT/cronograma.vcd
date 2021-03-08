@@ -1,0 +1,63 @@
+$date
+  Tue Oct 13 18:07:50 2020
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module tb_not2 $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # s1 $end
+$var reg 1 $ s2 $end
+$scope module componente $end
+$var reg 1 % e1 $end
+$var reg 1 & e2 $end
+$var reg 1 ' sal1 $end
+$var reg 1 ( sal2 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+0%
+0&
+0'
+0(
+#1000000
+1#
+1$
+1'
+1(
+#5000000
+1!
+1%
+#6000000
+0#
+0'
+1(
+#10000000
+0!
+1"
+0%
+1&
+#11000000
+1#
+0$
+1'
+0(
+#15000000
+1!
+1%
+#16000000
+0#
+0'
+0(
+#20000000

@@ -1,0 +1,22 @@
+v 4
+file . "RCA.vhd" "f2bb6b188e7cae2777d813da7c9192779c493b05" "20201210101353.056":
+  entity rca at 1( 0) + 0 on 77;
+  architecture estructural of rca at 6( 163) + 0 on 78;
+file . "xor2.vhd" "18f7275ac544e6d551981e93e33331946fecf3bf" "20201210101306.613":
+  entity xor2 at 3( 28) + 0 on 67;
+  architecture comportamiento of xor2 at 8( 125) + 0 on 68;
+file . "or2.vhd" "fa26f39112a7c8d3f21f2f889461ac44d67025d9" "20201210101325.487":
+  entity or2 at 3( 28) + 0 on 71;
+  architecture comportamiento of or2 at 8( 123) + 0 on 72;
+file . "and2.vhd" "a53989a14647174c2196cb3d3adfa94d623c2c11" "20201210101317.636":
+  entity and2 at 3( 28) + 0 on 69;
+  architecture comportamiento of and2 at 8( 125) + 0 on 70;
+file . "semisumador.vhd" "8bd89d7a1e81c3dcedee32b99cad8518212873cd" "20201210101334.511":
+  entity semisumador at 1( 0) + 0 on 73;
+  architecture estructural of semisumador at 5( 84) + 0 on 74;
+file . "tb_RCA.vhd" "d266a1ea83afd0a97bc4572c67c81c418a0d16ce" "20201210101405.784":
+  entity tb_rca at 1( 0) + 0 on 79;
+  architecture estructural of tb_rca at 4( 30) + 0 on 80;
+file . "sumador.vhd" "209eb61060cf559f2be93be77c817c96fe93bde6" "20201210101343.597":
+  entity sumador at 1( 0) + 0 on 75;
+  architecture estructural of sumador at 5( 78) + 0 on 76;

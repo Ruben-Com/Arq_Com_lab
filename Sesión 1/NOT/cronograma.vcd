@@ -1,0 +1,87 @@
+$date
+  Sat Oct 24 14:14:07 2020
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module tb_op_not_4 $end
+$var reg 4 ! a[3:0] $end
+$var reg 4 " b[3:0] $end
+$scope module componente $end
+$var reg 4 # vector_a[3:0] $end
+$var reg 4 $ vector_r[3:0] $end
+$scope module celda0 $end
+$var reg 1 % e $end
+$var reg 1 & sal $end
+$upscope $end
+$scope module celda1 $end
+$var reg 1 ' e $end
+$var reg 1 ( sal $end
+$upscope $end
+$scope module celda2 $end
+$var reg 1 ) e $end
+$var reg 1 * sal $end
+$upscope $end
+$scope module celda3 $end
+$var reg 1 + e $end
+$var reg 1 , sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b0000 !
+b0000 "
+b0000 #
+b0000 $
+0%
+0&
+0'
+0(
+0)
+0*
+0+
+0,
+#1000000
+b1111 "
+b1111 $
+1&
+1(
+1*
+1,
+#5000000
+b1010 !
+b1010 #
+1'
+1+
+#6000000
+b0101 "
+b0101 $
+0(
+0,
+#10000000
+b1111 !
+b1111 #
+1%
+1)
+#11000000
+b0000 "
+b0000 $
+0&
+0*
+#15000000
+b0011 !
+b0011 #
+0)
+0+
+#16000000
+b1100 "
+b1100 $
+1*
+1,
+#20000000

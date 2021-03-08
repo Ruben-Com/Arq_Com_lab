@@ -1,0 +1,34 @@
+v 4
+file . "tb_CSLA.vhd" "d806c803f1ff5d2712de6af4b59232d3023711a8" "20210122122822.070":
+  entity tb_csla at 1( 0) + 0 on 197;
+  architecture estructural of tb_csla at 4( 32) + 0 on 198;
+file . "CSL.vhd" "7336c6a898d837fb186e448a3986c087d6fed88c" "20210127232942.752":
+  entity csl at 1( 0) + 0 on 199;
+  architecture estructural of csl at 6( 198) + 0 on 200;
+file . "xor2.vhd" "e305d1c2186ad2bfea7c95bbdb5d16193accc437" "20201207104626.479":
+  entity xor2 at 1( 0) + 0 on 27;
+  architecture comportamiento of xor2 at 6( 97) + 0 on 28;
+file . "sumador.vhd" "209eb61060cf559f2be93be77c817c96fe93bde6" "20210122115039.656":
+  entity sumador at 1( 0) + 0 on 165;
+  architecture estructural of sumador at 5( 78) + 0 on 166;
+file . "inv.vhd" "17bf63ad98f8414bb39d751a71f7fd3f360addf7" "20201207103321.883":
+  entity inv at 1( 0) + 0 on 15;
+  architecture comportamiento of inv at 6( 90) + 0 on 16;
+file . "or2.vhd" "052e16386f2da5a5be2b15a48d8bcecbf114b4da" "20201207103333.642":
+  entity or2 at 1( 0) + 0 on 19;
+  architecture comportamiento of or2 at 6( 95) + 0 on 20;
+file . "and2.vhd" "ef1e40daa6924319775ca6de256b1c827c523f48" "20201207103308.481":
+  entity and2 at 1( 0) + 0 on 13;
+  architecture comportamiento of and2 at 6( 97) + 0 on 14;
+file . "mux21.vhd" "1352e7b7474769f8e059331c4a466235fff22662" "20201207103412.600":
+  entity mux21 at 1( 0) + 0 on 21;
+  architecture estructural of mux21 at 5( 73) + 0 on 22;
+file . "semisumador.vhd" "8bd89d7a1e81c3dcedee32b99cad8518212873cd" "20201207104509.130":
+  entity semisumador at 1( 0) + 0 on 25;
+  architecture estructural of semisumador at 5( 84) + 0 on 26;
+file . "RCA.vhd" "14a154ac61494ec8edefccda8b061d45b1180c5a" "20210122121729.212":
+  entity rca at 1( 0) + 0 on 183;
+  architecture estructural of rca at 6( 163) + 0 on 184;
+file . "CSLA.vhd" "a91e1d0c74bef34abdadccf78780bf8a4289af87" "20210122121851.846":
+  entity csla at 1( 0) + 0 on 191;
+  architecture estructural of csla at 6( 214) + 0 on 192;

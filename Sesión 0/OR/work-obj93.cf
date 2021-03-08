@@ -1,0 +1,7 @@
+v 4
+file . "tb_or2.vhd" "f9af249d607aefdce42e4cbea6569ebd6254a5d0" "20201013120529.843":
+  entity tb_or2 at 1( 0) + 0 on 13;
+  architecture estructural of tb_or2 at 4( 30) + 0 on 14;
+file . "or2.vhd" "f038e32dcebb65ce630fd51a35a025355df818b9" "20201013120523.363":
+  entity or2 at 1( 0) + 0 on 11;
+  architecture comportamiento of or2 at 6( 95) + 0 on 12;

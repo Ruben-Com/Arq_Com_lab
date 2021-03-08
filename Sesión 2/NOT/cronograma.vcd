@@ -1,0 +1,74 @@
+$date
+  Fri Oct 30 13:23:58 2020
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module tb_op_not_n $end
+$var reg 2 ! a[1:0] $end
+$var reg 2 " b[1:0] $end
+$scope module operador $end
+$var reg 2 # x[1:0] $end
+$var reg 2 $ s[1:0] $end
+$scope module bateria(0) $end
+$scope module puertas $end
+$var reg 1 % e $end
+$var reg 1 & sal $end
+$upscope $end
+$upscope $end
+$scope module bateria(1) $end
+$scope module puertas $end
+$var reg 1 ' e $end
+$var reg 1 ( sal $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b00 !
+b00 "
+b00 #
+b00 $
+0%
+0&
+0'
+0(
+#1000000
+b11 "
+b11 $
+1&
+1(
+#2000000
+b01 !
+b01 #
+1%
+#3000000
+b10 "
+b10 $
+0&
+#4000000
+b10 !
+b10 #
+0%
+1'
+#5000000
+b01 "
+b01 $
+1&
+0(
+#6000000
+b11 !
+b11 #
+1%
+#7000000
+b00 "
+b00 $
+0&
+#8000000
+#10000000

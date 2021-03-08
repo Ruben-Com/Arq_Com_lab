@@ -1,0 +1,37 @@
+v 4
+file . "sumador-restador.vhd" "b09824f74864f317294a0f562657e942dd3bbe24" "20210131225815.893":
+  entity sumador_restador at 1( 0) + 0 on 45;
+  architecture estructural of sumador_restador at 6( 199) + 0 on 46;
+file . "Bloque_neg.vhd" "6f66f911de274a2eccb3418a443b24038dfcb5c3" "20210131221412.099":
+  entity bloque_neg at 1( 0) + 0 on 35;
+  architecture estructural of bloque_neg at 5( 80) + 0 on 36;
+file . "mux21.vhd" "1352e7b7474769f8e059331c4a466235fff22662" "20210128202637.416":
+  entity mux21 at 1( 0) + 0 on 31;
+  architecture estructural of mux21 at 5( 73) + 0 on 32;
+file . "and2.vhd" "ef1e40daa6924319775ca6de256b1c827c523f48" "20210128134547.393":
+  entity and2 at 1( 0) + 0 on 15;
+  architecture comportamiento of and2 at 6( 97) + 0 on 16;
+file . "sumador.vhd" "209eb61060cf559f2be93be77c817c96fe93bde6" "20210128151045.742":
+  entity sumador at 1( 0) + 0 on 23;
+  architecture estructural of sumador at 5( 78) + 0 on 24;
+file . "xor2.vhd" "e305d1c2186ad2bfea7c95bbdb5d16193accc437" "20210128134536.388":
+  entity xor2 at 1( 0) + 0 on 13;
+  architecture comportamiento of xor2 at 6( 97) + 0 on 14;
+file . "semisumador.vhd" "8bd89d7a1e81c3dcedee32b99cad8518212873cd" "20210128134715.922":
+  entity semisumador at 1( 0) + 0 on 17;
+  architecture estructural of semisumador at 5( 84) + 0 on 18;
+file . "or2.vhd" "052e16386f2da5a5be2b15a48d8bcecbf114b4da" "20210128151035.162":
+  entity or2 at 1( 0) + 0 on 21;
+  architecture comportamiento of or2 at 6( 95) + 0 on 22;
+file . "RCA.vhd" "b7fb52de8ccb727973529b887770f55257ff4112" "20210128151726.006":
+  entity rca at 1( 0) + 0 on 27;
+  architecture estructural of rca at 6( 154) + 0 on 28;
+file . "inv.vhd" "17bf63ad98f8414bb39d751a71f7fd3f360addf7" "20210128202624.711":
+  entity inv at 1( 0) + 0 on 29;
+  architecture comportamiento of inv at 6( 90) + 0 on 30;
+file . "not2.vhd" "8000f5251bcd6c238a71820f78eb7a9b65d4c704" "20210308115317.025":
+  entity not2 at 1( 0) + 0 on 47;
+  architecture comportamiento of not2 at 6( 92) + 0 on 48;
+file . "NEG_C2.vhd" "3fb28093c151f3b7a5d0e9784ce73b3294827239" "20210131225729.145":
+  entity neg_c2 at 1( 0) + 0 on 41;
+  architecture estructural of neg_c2 at 6( 152) + 0 on 42;

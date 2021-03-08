@@ -1,0 +1,10 @@
+v 4
+file . "tb_op_xor_n.vhd" "5738976c2b25d2644f00b10d3968ca6c9cbf9393" "20201023123342.404":
+  entity tb_op_xor_n at 1( 0) + 0 on 15;
+  architecture estructural of tb_op_xor_n at 4( 40) + 0 on 16;
+file . "xor2.vhd" "c26f0855dae95eea41b78074d928ab556301f5b3" "20201023123309.140":
+  entity xor2 at 3( 28) + 0 on 11;
+  architecture comportamiento of xor2 at 8( 125) + 0 on 12;
+file . "op_xor_n.vhd" "f13d5c5e4853b7ba25b40b6232698fe032b3c346" "20201023123325.346":
+  entity op_xor_n at 1( 0) + 0 on 13;
+  architecture estructural of op_xor_n at 6( 135) + 0 on 14;

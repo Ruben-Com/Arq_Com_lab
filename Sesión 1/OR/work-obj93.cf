@@ -1,0 +1,10 @@
+v 4
+file . "tb_op_or_4.vhd" "a57bfae14b345b6b8ecd747b7550e1a36d684aa3" "20201017220742.961":
+  entity tb_op_or_4 at 2( 53) + 0 on 15;
+  architecture estructural of tb_op_or_4 at 5( 91) + 0 on 16;
+file . "or2.vhd" "f038e32dcebb65ce630fd51a35a025355df818b9" "20201017220735.260":
+  entity or2 at 1( 0) + 0 on 11;
+  architecture comportamiento of or2 at 6( 95) + 0 on 12;
+file . "op_or_4.vhd" "8726f0a27a161c12f1d0bdb3b4d76d8437794d13" "20201017220737.737":
+  entity op_or_4 at 1( 0) + 0 on 13;
+  architecture estructural of op_or_4 at 6( 131) + 0 on 14;

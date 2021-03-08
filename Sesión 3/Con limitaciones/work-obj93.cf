@@ -1,0 +1,13 @@
+v 4
+file . "or2.vhd" "f038e32dcebb65ce630fd51a35a025355df818b9" "20201108110940.488":
+  entity or2 at 1( 0) + 0 on 17;
+  architecture comportamiento of or2 at 6( 95) + 0 on 18;
+file . "sumador.vhd" "c1ea3d1cb2b38b04558fd831759c5fa62ce472fa" "20201108111023.149":
+  entity sumador at 1( 0) + 0 on 21;
+  architecture estructural of sumador at 5( 78) + 0 on 22;
+file . "not2.vhd" "8000f5251bcd6c238a71820f78eb7a9b65d4c704" "20201108110935.140":
+  entity not2 at 1( 0) + 0 on 15;
+  architecture comportamiento of not2 at 6( 92) + 0 on 16;
+file . "and2.vhd" "85b35bafb958304d203cfd74f8467896e5d1050e" "20201108110951.598":
+  entity and2 at 3( 28) + 0 on 19;
+  architecture comportamiento of and2 at 8( 125) + 0 on 20;

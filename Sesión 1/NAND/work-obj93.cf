@@ -1,0 +1,10 @@
+v 4
+file . "tb_op_nand_4.vhd" "9093dbb414db85b4a43ae8a112d89e15328cde65" "20201017221319.700":
+  entity tb_op_nand_4 at 2( 53) + 0 on 19;
+  architecture estructural of tb_op_nand_4 at 5( 95) + 0 on 20;
+file . "nand2.vhd" "81b68db68ac19ab2c8d2949892f8e99df2fbdca4" "20201017193810.267":
+  entity nand2 at 1( 0) + 0 on 11;
+  architecture comportamiento of nand2 at 6( 99) + 0 on 12;
+file . "op_nand_4.vhd" "321cba46e09ba082061f39b7be7296fe52f83a62" "20201017193917.232":
+  entity op_nand_4 at 1( 0) + 0 on 13;
+  architecture estructural of op_nand_4 at 6( 135) + 0 on 14;

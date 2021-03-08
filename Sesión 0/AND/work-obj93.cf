@@ -1,0 +1,7 @@
+v 4
+file . "tb_and2.vhd" "dd28c3f4e44184f8ddee24a6649625bd0e03779d" "20201012220409.465":
+  entity tb_and2 at 1( 0) + 0 on 13;
+  architecture estructural of tb_and2 at 4( 32) + 0 on 14;
+file . "and2.vhd" "85b35bafb958304d203cfd74f8467896e5d1050e" "20201012220406.165":
+  entity and2 at 3( 28) + 0 on 11;
+  architecture comportamiento of and2 at 8( 125) + 0 on 12;

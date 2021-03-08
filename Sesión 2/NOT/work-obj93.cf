@@ -1,0 +1,10 @@
+v 4
+file . "tb_op_not_n.vhd" "980b4ac62be24e6a75e5df3e2aa871781039cc7e" "20201030122329.368":
+  entity tb_op_not_n at 1( 0) + 0 on 15;
+  architecture estructural of tb_op_not_n at 4( 40) + 0 on 16;
+file . "not2.vhd" "8000f5251bcd6c238a71820f78eb7a9b65d4c704" "20201030122317.337":
+  entity not2 at 1( 0) + 0 on 11;
+  architecture comportamiento of not2 at 6( 92) + 0 on 12;
+file . "op_not_n.vhd" "b2e9fec8d70deec4fc7dbcc26593b7deacc40ab7" "20201030122324.576":
+  entity op_not_n at 1( 0) + 0 on 13;
+  architecture estructural of op_not_n at 6( 132) + 0 on 14;
